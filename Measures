@@ -1,0 +1,16 @@
+Calculated fields/measures created in Looker Studio
+
+To apply different fuel prices 
+
+CASE
+	WHEN Fuel Type = "Regular Gasoline" THEN 1.476
+    WHEN Fuel Type = "Premium gasoline" THEN 1.783
+    WHEN Fuel Type = "Natural Gas" THEN .904
+    WHEN Fuel Type = "Ethanol (E85)" THEN 0.942
+    WHEN Fuel Type = "Diesel" THEN 1.788
+    ELSE 0
+    END
+
+To calculate Annual fuel cost
+
+((20000 / 100) * Fuel Consumption Comb (L/100 km)) * Fuel price

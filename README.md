@@ -21,3 +21,6 @@ Dataset sourced from Open Canada:
 https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 
 ![image](https://github.com/HrMav/EnerGuide-FuelConsumption-Looker-Studio/assets/132946730/fbccd4d9-e86f-4ab8-9561-1858749b148a)
+
+![image](https://github.com/HrMav/EnerGuide-FuelConsumption-Looker-Studio/assets/132946730/58854511-b76c-4266-a6f8-638aee852f23)
+

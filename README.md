@@ -1,5 +1,9 @@
 # EnerGuide-FuelConsumption-Looker-Studio
 
+Dashboard Link:
+
+https://lookerstudio.google.com/u/0/reporting/3c2bc97a-0377-406e-9b91-3823b04abc92/page/FVVfD
+
 This interactive dashboard provides detailed insights into the fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles available for retail sale in Canada. The data-driven visualizations cater to a wide range of vehicles, including:
 
 Passenger cars
